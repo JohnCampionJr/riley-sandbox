@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Helo, $1"
+echo "Hello, $1"
